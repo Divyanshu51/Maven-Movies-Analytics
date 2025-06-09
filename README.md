@@ -28,11 +28,11 @@ This project demonstrates end-to-end data analysis for a movie rental business, 
 
 Here’s a snapshot of the cleaned data and insights:
 
-##Most Popular Film by Rental Count
+**Most Popular Film by Rental Count**
 ![Most Popular Film](Images/most_popular_film_by_rental_count.jpg)
 
-##Top Rented Film Category
+**Top Rented Film Category**
 ![Top Rented Film Category](Images/top_rented_film_category.jpg)
 
-##Top Revenue Films
+**Top Revenue Films**
 ![Top Revenue Films](Images/top_revenue_films.jpg)
