@@ -24,4 +24,12 @@ This project demonstrates end-to-end data analysis for a movie rental business, 
 - Top films by rental revenue were visualised
 - Horizontal bar plots are used for better readability of long titles
 
+## EDA Visualisation
+
+Here’s a snapshot of the cleaned data and insights:
+
 ![Most Popular Film](Images/most_popular_film_by_rental_count.jpg)
+
+![Top Rented Film Category](Images/top_rented_film_category.jpg)
+
+![Top Revenue Films](Images/top_revenue_films.jpg)
